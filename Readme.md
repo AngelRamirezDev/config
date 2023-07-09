@@ -39,3 +39,17 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/mast
 ```shell
 code ~/.bashrc
 ```
+
+# Arch
+
+## VSCode
+
+```shell
+yay -S visual-studio-code-bin
+```
+
+## Pamac
+
+```shell
+yay -S pamac-all
+```
