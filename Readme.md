@@ -42,6 +42,18 @@ code ~/.bashrc
 
 # Arch
 
+## Problemas con paquetes
+
+```shell
+pacman -Sy archlinux-keyring
+```
+
+luego, forzar actualización
+
+```shell
+pacman -Syyu
+```
+
 ## VSCode
 
 ```shell
@@ -53,3 +65,10 @@ yay -S visual-studio-code-bin
 ```shell
 yay -S pamac-all
 ```
+
+## Programas
+
+Activar AUR y Flatpak
+
+- microsoft-edge-stable-bin (AUR)
+- visual-studio-code-bin (AUR)
