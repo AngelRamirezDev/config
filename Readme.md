@@ -2,6 +2,10 @@ Creado el 22 de julio del 2022
 
 # Config
 
+```shell
+mkdir ~/gitLocal
+```
+
 ## Git
 
 ```shell
