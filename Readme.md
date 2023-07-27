@@ -46,6 +46,10 @@ code ~/.bashrc
 
 # Arch
 
+```shell
+sudo !!
+```
+
 ## Problemas con paquetes
 
 ```shell
